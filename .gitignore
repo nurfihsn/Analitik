@@ -79,4 +79,4 @@ venv.bak/
 .python-version
 
 # Misc
-*.log
+*.log 
