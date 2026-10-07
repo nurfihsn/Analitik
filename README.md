@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Analisis Efisiensi Pembelajaran Hibrida
 
 Aplikasi analitik berbasis Streamlit untuk memodelkan hubungan antara jam pembelajaran tatap muka dan daring terhadap nilai akhir mahasiswa menggunakan Regresi Linier dan Aljabar Linier.
@@ -69,6 +68,3 @@ pip install -r requirements-dev.txt
 # Mengeksekusi pengujian
 pytest
 ```
-=======
-# Analytic Student Data
->>>>>>> upstream/main
